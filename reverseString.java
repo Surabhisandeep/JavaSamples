@@ -1,4 +1,4 @@
-public class ReverseString {
+public class reverseString {
     public static String reverse(String str) {
         StringBuilder reversed = new StringBuilder(str);
         return reversed.reverse().toString();

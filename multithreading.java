@@ -18,7 +18,7 @@ class OddThread extends Thread {
     }
 }
 
-public class ThreadExample {
+public class multithreading {
     public static void main(String[] args) {
         EvenThread even = new EvenThread();
         OddThread odd = new OddThread();

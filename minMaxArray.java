@@ -1,4 +1,4 @@
-public class MinMaxArray {
+public class minMaxArray {
     public static void findMinMax(int[] numbers) {
         int min = numbers[0];
         int max = numbers[0];
